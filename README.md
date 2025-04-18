@@ -1,12 +1,12 @@
-# Simple Shell Project
+<H1 align="center"> 🐚SIMPLE SHELL PROJECT🐚<BR/> 🥇FAHAD ALONAZI - IBRAHIM ALFALEH🥇</H1>
 
-**A simple Unix command line interpreter**
+
 <p align="center">
 <img width="520" align="center" altlt="Image" src="https://github.com/user-attachments/assets/608bf41c-296d-4e49-bdfc-b4544cfd62ae" />
 </p>
 
 ****
-## Table of contents
+## Table of contents 📑
  - **What is the shell?**
  - **About this project**
  - **Essential Functionalities of the Simple Shell**
@@ -17,15 +17,15 @@
  - **TEAM**
  ****
 
-## What is the shell?
+## What is the shell?🐚
 The shell is a program that takes commands from the keyboard via the terminal, and gives them to the operating system to perform.\
 **To better understand how the shell actually works, you can read our [Article].**
 
-## About this project
+## About this projectℹ️
 This project is a simple version of the linux shell made for [Holberton School] taking part of the "Low-level programming & Algorithm - Linux and Unix system programming" projects.\
 It is created using the **C programming Language** and it can do many functionalities that a real shell does.
 
-## Essential Functionalities of the Simple Shell:
+## Essential Functionalities of the Simple Shell: 📝
 > Displays a prompt "#$ " and waits for user input.\
 > Runs all commands of type "executable program" (ls and /bin/ls).\
 > Runs the following build_in commands: **exit**, **env**, **setenv** and **unsetenv**.\
@@ -34,7 +34,7 @@ It is created using the **C programming Language** and it can do many functional
 > Handles The EOF (End Of File) condition.\
 > Handles the Ctrl + C signal -> It doesn't exit the shell
 
-## Files description
+## Files description📂
  - **AUTHORS** -> List of contributors to this repository
  - **README.md** -> description about the project repo
  - **man_1_simple_shell** -> Manual page for the simple_shell
@@ -71,7 +71,7 @@ It is created using the **C programming Language** and it can do many functional
 	- **lists1.c** -> Advanced list operations
 
 ****
-## List of allowed functions and system calls for this project
+## List of allowed functions and system calls for this project📲
  - access (man 2 access)
  - chdir (man 2 chdir)
  - close (man 2 close)
@@ -104,7 +104,7 @@ It is created using the **C programming Language** and it can do many functional
  - write (man 2 write)
 ****
 
-## USAGE
+## USAGE⚜️
 You can try our shell by following these steps:
 > **Step 1:** Clone our repository using this command, (you need to have git installed on your machine first)
 ````
@@ -130,7 +130,7 @@ exit
 ````
 > **2: Press on Ctrl + D**
 
-## Example of Usage
+## Example of Usage💯
 ````
 root@0af34759cb774125854d542ce222dc6a-2377118072:/holbertonschool-simple_shell# gcc -Wall -Wextra -Werror -pedantic *.c -o hsh
 root@0af34759cb774125854d542ce222dc6a-2377118072:/holbertonschool-simple_shell# ./hsh
@@ -176,7 +176,8 @@ root@0af34759cb774125854d542ce222dc6a-2377118072:/holbertonschool-simple_shell#
 
 ````
 
-## TEAM
+## TEAM🥇
 FAHAD ALONAZI  : [GitHub/FROOT1](https://github.com/Froot1)\
 IBRAHIM ALFALEH:  [GitHub/Alfaleh1992](https://github.com/Alfaleh1992)
+
 
